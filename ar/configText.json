@@ -1,0 +1,12 @@
+{
+    "searchYourRegion" : "ابحث عن الأماكن ذات الصلة إسلامياً",
+    "selectLanguage": "اختار اللغة <i id=\"langText\" class=\"fa fa-language\" aria-hidden=\"true\"></i>",
+    "currentLanguage": "اللغة الحالية: <b>عربى</b>",
+    "basemapName": "<span class=\"caret\"></span> الخريطة الأساسية",
+    "light": "<a>ضوء</a>",
+    "dark": "<a>داكن</a>",
+    "streets": "<a>الشوارع</a>",
+    "outdoors": "<a>في الهواء الطلق</a>",
+    "satellite": "<a>الأقمار الصناعية</a>",
+    "satellite-streets": "<a>الأقمار الصناعية - الشوارع</a>"
+}

@@ -1,0 +1,12 @@
+{
+    "searchYourRegion" : "اسلام سے متعلقہ جگہیں تلاش کریں",
+    "selectLanguage": "زبان منتخب کریں <i id=\"langText\" class=\"fa fa-language\" aria-hidden=\"true\"></i>",
+    "currentLanguage": "موجودہ زبان: <b>اردو</b>",
+    "basemapName": "<span class=\"caret\"></span> بیس میپ",
+    "light": "<a>روشنی</a>",
+    "dark": "<a>گہرا</a>",
+    "streets": "<a>سڑکیں</a>",
+    "outdoors": "<a>باہر</a>",
+    "satellite": "<a>سیٹیلائٹ</a>",
+    "satellite-streets": "<a>سیٹیلائٹ - سڑکیں</a>"
+}

@@ -1,0 +1,12 @@
+{
+    "searchYourRegion" : "Cerca luoghi rilevanti per l'islam",
+    "selectLanguage": "Seleziona la lingua <i id=\"langText\" class=\"fa fa-language\" aria-hidden=\"true\"></i>",
+    "currentLanguage": "Lingua corrente: <b>Italiana</b>",
+    "basemapName": "Basemap <span class=\"caret\"></span>",
+    "light": "<a>Luce</a>",
+    "dark": "<a>Buio</a>",
+    "streets": "<a>Strade</a>",
+    "outdoors": "<a>All'aperto</a>",
+    "satellite": "<a>Satellitare</a>",
+    "satellite-streets": "<a>Satellitare-Strade</a>"
+}

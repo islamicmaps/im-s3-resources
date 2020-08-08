@@ -1,0 +1,12 @@
+{
+    "searchYourRegion" : "Suche nach islamisch relevanten Orten",
+    "selectLanguage": "Sprache auswählen <i id=\"langText\" class=\"fa fa-language\" aria-hidden=\"true\"></i>",
+    "currentLanguage": "Aktuelle Sprache: <b>Deutsch</b>",
+    "basemapName": "Basiskarte <span class=\"caret\"></span>",
+    "light": "<a>Licht</a>",
+    "dark": "<a>Dunkel</a>",
+    "streets": "<a>Straßen</a>",
+    "outdoors": "<a>Draußen</a>",
+    "satellite": "<a>Satellit</a>",
+    "satellite-streets": "<a>Satellit-Straßen</a>"
+}

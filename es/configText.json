@@ -1,0 +1,12 @@
+{
+    "searchYourRegion" : "Buscar lugares islámicamente relevantes",
+    "selectLanguage": "Seleccione el idioma <i id=\"langText\" class=\"fa fa-language\" aria-hidden=\"true\"></i>",
+    "currentLanguage": "Idioma actual: <b>Española</b>",
+    "basemapName": "Mapa base <span class=\"caret\"></span>",
+    "light": "<a>Ligero</a>",
+    "dark": "<a>Oscuro</a>",
+    "streets": "<a>Calles</a>",
+    "outdoors": "<a>Al aire libre</a>",
+    "satellite": "<a>Satélite</a>",
+    "satellite-streets": "<a>Satélite-Calles</a>"
+}

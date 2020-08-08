@@ -1,0 +1,12 @@
+{
+    "searchYourRegion" : "مکانهای مرتبط با اسلام را جستجو کنید",
+    "selectLanguage": "زبان را انتخاب کنید <i id=\"langText\" class=\"fa fa-language\" aria-hidden=\"true\"></i>",
+    "currentLanguage": "زبان فعلی: <b>فارسی</b>",
+    "basemapName": "<span class=\"caret\"></span> نقشه اصلی",
+    "light": "<a>سبک</a>",
+    "dark": "<a>تاریک</a>",
+    "streets": "<a>خیابانها</a>",
+    "outdoors": "<a>بیرون از خانه</a>",
+    "satellite": "<a>ماهواره</a>",
+    "satellite-streets": "<a>ماهواره - خیابانها</a>"
+}

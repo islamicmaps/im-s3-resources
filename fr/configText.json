@@ -1,0 +1,12 @@
+{
+    "searchYourRegion" : "Rechercher des lieux islamiquement pertinents",
+    "selectLanguage": "Choisir la langue <i id=\"langText\" class=\"fa fa-language\" aria-hidden=\"true\"></i>",
+    "currentLanguage": "Langue courante: <b>Française</b>",
+    "basemapName": "Fond de carte <span class=\"caret\"></span>",
+    "light": "<a>Lumière</a>",
+    "dark": "<a>Sombre</a>",
+    "streets": "<a>Des rues</a>",
+    "outdoors": "<a>En plein air</a>",
+    "satellite": "<a>Satellite</a>",
+    "satellite-streets": "<a>Satellite-Des rues</a>"
+}

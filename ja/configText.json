@@ -1,0 +1,12 @@
+{
+    "searchYourRegion" : "イスラムに関連する場所を検索",
+    "selectLanguage": "言語を選択する <i id=\"langText\" class=\"fa fa-language\" aria-hidden=\"true\"></i>",
+    "currentLanguage": "現在の言語: <b>日本人</b>",
+    "basemapName": "ベースマップ <span class=\"caret\"></span>",
+    "light": "<a>光</a>",
+    "dark": "<a>闇</a>",
+    "streets": "<a>通り</a>",
+    "outdoors": "<a>屋外</a>",
+    "satellite": "<a>衛星</a>",
+    "satellite-streets": "<a>衛星-通り</a>"
+}
