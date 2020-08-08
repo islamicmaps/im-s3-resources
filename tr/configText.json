@@ -1,0 +1,12 @@
+{
+    "searchYourRegion" : "İslami Olarak İlgili Yerleri Arayın",
+    "selectLanguage": "Dil Seçin <i id=\"langText\" class=\"fa fa-language\" aria-hidden=\"true\"></i>",
+    "currentLanguage": "Mevcut Dil: <b>Türkçe</b>",
+    "basemapName": "Temel harita <span class=\"caret\"></span>",
+    "light": "<a>Işık</a>",
+    "dark": "<a>Karanlık</a>",
+    "streets": "<a>Sokaklar</a>",
+    "outdoors": "<a>Açık havada</a>",
+    "satellite": "<a>Uydu</a>",
+    "satellite-streets": "<a>Uydu-Sokaklar</a>"
+}

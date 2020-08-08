@@ -1,0 +1,12 @@
+{
+    "searchYourRegion" : "Search Islamically Relevant Places",
+    "selectLanguage": "Select Language <i id=\"langText\" class=\"fa fa-language\" aria-hidden=\"true\"></i>",
+    "currentLanguage": "Current Language: <b>English</b>",
+    "basemapName": "Basemap <span class=\"caret\"></span>",
+    "light": "<a>Light</a>",
+    "dark": "<a>Dark</a>",
+    "streets": "<a>Streets</a>",
+    "outdoors": "<a>Outdoors</a>",
+    "satellite": "<a>Satellite</a>",
+    "satellite-streets": "<a>Satellite-Streets</a>"
+}

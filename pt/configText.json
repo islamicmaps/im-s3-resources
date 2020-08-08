@@ -1,0 +1,12 @@
+{
+    "searchYourRegion" : "Pesquise lugares islâmicos relevantes",
+    "selectLanguage": "Selecione o idioma <i id=\"langText\" class=\"fa fa-language\" aria-hidden=\"true\"></i>",
+    "currentLanguage": "Idioma atual: <b>Portugues</b>",
+    "basemapName": "Mapa base <span class=\"caret\"></span>",
+    "light": "<a>Luz</a>",
+    "dark": "<a>Sombrio</a>",
+    "streets": "<a>Ruas</a>",
+    "outdoors": "<a>Ao ar livre</a>",
+    "satellite": "<a>Satélite</a>",
+    "satellite-streets": "<a>Satélite-Ruas</a>"
+}

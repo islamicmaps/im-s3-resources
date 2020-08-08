@@ -1,0 +1,12 @@
+{
+    "searchYourRegion" : "Поиск исламских мест",
+    "selectLanguage": "Выберите язык <i id=\"langText\" class=\"fa fa-language\" aria-hidden=\"true\"></i>",
+    "currentLanguage": "Текущий язык: <b>русский</b>",
+    "basemapName": "Базовая карта <span class=\"caret\"></span>",
+    "light": "<a>Свет</a>",
+    "dark": "<a>Тьма</a>",
+    "streets": "<a>Улицы</a>",
+    "outdoors": "<a>На открытом воздухе</a>",
+    "satellite": "<a>спутниковое</a>",
+    "satellite-streets": "<a>спутниковое-Улицы</a>"
+}

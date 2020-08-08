@@ -1,0 +1,12 @@
+{
+    "searchYourRegion" : "搜索与伊斯兰有关的地方",
+    "selectLanguage": "选择语言 <i id=\"langText\" class=\"fa fa-language\" aria-hidden=\"true\"></i>",
+    "currentLanguage": "当前语言: <b>中文</b>",
+    "basemapName": "底图 <span class=\"caret\"></span>",
+    "light": "<a>光</a>",
+    "dark": "<a>黑暗</a>",
+    "streets": "<a>街道</a>",
+    "outdoors": "<a>户外活动</a>",
+    "satellite": "<a>卫星</a>",
+    "satellite-streets": "<a>卫星-街道</a>"
+}

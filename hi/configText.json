@@ -1,0 +1,12 @@
+{
+    "searchYourRegion" : "इस्लामी रूप से प्रासंगिक स्थान खोजें",
+    "selectLanguage": "भाषा का चयन करें <i id=\"langText\" class=\"fa fa-language\" aria-hidden=\"true\"></i>",
+    "currentLanguage": "वर्तमान भाषा: <b>हिन्दी</b>",
+    "basemapName": "आधार - नक्शा <span class=\"caret\"></span>",
+    "light": "<a>रोशनी</a>",
+    "dark": "<a>अंधेरा</a>",
+    "streets": "<a>सड़कें</a>",
+    "outdoors": "<a>सड़क पर</a>",
+    "satellite": "<a>उपग्रह</a>",
+    "satellite-streets": "<a>उपग्रह-सड़कें</a>"
+}

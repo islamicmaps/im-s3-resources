@@ -1,0 +1,77 @@
+[
+    {
+        "p": "Prophet Muhammad (pbuh)",
+        "c": [
+            {
+                "p": "Childhood",
+                "c": [
+                    "Birthplace",
+                    "House"
+                ]
+            },
+            {
+                "p": "Pre-Prophethood",
+                "c": [
+                    "House",
+                    "Business"
+                ]
+            },
+            {
+                "p": "Post-Prophethood",
+                "c": [
+                    {
+                        "p": "Meccan Phase",
+                        "c": [
+                            "Persecution Sites",
+                            "House"
+                        ]
+                    },
+                    {
+                        "p": "Battles",
+                        "c": [
+                            "Badr",
+                            "Uhud",
+                            "Khandak"
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "p": "Prophet Isa (pbuh)",
+        "c": [
+            {
+                "p": "Birthplace"
+            },
+            {
+                "p": "Prophethood",
+                "c": [
+                    "Region of Influence",
+                    "Crucifixation Attempt"
+                ]
+            }
+        ]
+    },
+    {
+        "p": "Prophet Musa (pbuh)",
+        "c": [
+            {
+                "p": "Birthplace"
+            },
+            {
+                "p": "Prophethood",
+                "c": [
+                    "Region of Influence",
+                    "Childreon of Israel"
+                ]
+            }
+        ]
+    },
+    {
+        "p": "Prophet Ibrahim (pbuh)"
+    },
+    {
+        "p": "Prophet Nooh (pbuh)"
+    }
+]
